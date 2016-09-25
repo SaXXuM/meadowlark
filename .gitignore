@@ -2,3 +2,5 @@
 node_modules
 # Игнорировать файлы редакторы
 .idea
+# Ignore vagrant files
+.vagrant
