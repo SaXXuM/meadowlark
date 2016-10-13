@@ -4,3 +4,7 @@ node_modules
 .idea
 # Ignore vagrant files
 .vagrant
+# Ignore uploads
+public/uploads
+# Ignore file with credentials
+credentials.js
